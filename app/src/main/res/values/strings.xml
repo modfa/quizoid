@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quizoid</string>
+    <string name="question_1">Q.1) Which cricketer had scored highest individual score in first-class cricket?</string>
+    <string name="don_bradman">Don Bradman</string>
+    <string name="brian_lara">Brian Lara</string>
+    <string name="gary_sobers">Gary Sobers</string>
+    <string name="question_2">Q.2) Which cricketer had scored highest individual score in ODI cricket?</string>
+    <string name="virender_sehwag">Virender Sehwag</string>
+    <string name="martin_guptill">Martin Guptill</string>
+    <string name="rohit_sharma">Rohit Sharma</string>
+    <string name="question_3">Q.3) Which cricketer had scored fastest century in ODI cricket?</string>
+    <string name="vivian_richards">Vivian Richards</string>
+    <string name="shahid_afridi">Shahid Afridi</string>
+    <string name="ab_de_villiers">AB de Villiers</string>
+    <string name="question_4">Q.4) Can you guess the name of this legend cricketer?</string>
+    <string name="type_your_answer_here">Type Your Answer Here</string>
+    <string name="question_5">Q.5) Which of these are the valid cricket terminologies?</string>
+    <string name="gully">Gully</string>
+    <string name="silly_point">Silly Point</string>
+    <string name="foul">Foul</string>
+    <string name="play_again">Play Again</string>
+    <string name="submit">Submit</string>
+    <string name="score">Score</string>
+    <string name="zero">0</string>
+</resources>
