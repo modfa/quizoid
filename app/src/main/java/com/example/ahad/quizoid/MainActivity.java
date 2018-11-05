@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // finding the submit button view
-        Button mSubmitButton = findViewById(R.id.submit);
+        final Button mSubmitButton = findViewById(R.id.submit);
 
         // Setting up listener on the submit button
         mSubmitButton.setOnClickListener(new View.OnClickListener() {
@@ -85,6 +85,7 @@ public class MainActivity extends AppCompatActivity {
 
                 // Calling the method to set the score
                 display(mScore);
+                mScore =0;
 
             }
         });
